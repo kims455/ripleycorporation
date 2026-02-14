@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 443.06 735">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f6f5ef;
+      }
+    </style>
+  </defs>
+  <g id="poster">
+    <g>
+      <path class="cls-1" d="M0,0h209.27s.08.04.08.08v19.76C209.35,135.34,115.58,229.11.08,229.11h0S0,229.08,0,229.03V0H0Z" transform="translate(209.35 229.11) rotate(180)"/>
+      <path class="cls-1" d="M233.71,0h0C349.25,0,443.06,93.81,443.06,209.35v19.76h-209.35V0h0Z"/>
+      <rect class="cls-1" x="233.71" y="252.94" width="209.35" height="229.11"/>
+      <rect class="cls-1" x="0" y="252.94" width="209.35" height="229.11"/>
+      <rect class="cls-1" x="233.71" y="505.89" width="209.35" height="229.11"/>
+      <rect class="cls-1" x="0" y="505.89" width="209.35" height="229.11"/>
+    </g>
+  </g>
+</svg>

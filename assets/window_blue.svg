@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 57.86 85.74">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2a5dab;
+        stroke: #2a5dab;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+    </style>
+  </defs>
+  <g id="logo">
+    <g id="window">
+      <path class="cls-1" d="M.25.25h27.1v2.05c0,14.96-12.14,27.1-27.1,27.1h0V.25H.25Z" transform="translate(27.6 29.66) rotate(-180)"/>
+      <path class="cls-1" d="M30.51.25h0c14.96,0,27.1,12.14,27.1,27.1v2.05h-27.1V.25h0Z"/>
+      <rect class="cls-1" x="30.51" y="32.37" width="27.1" height="25.12"/>
+      <rect class="cls-1" x=".25" y="32.37" width="27.1" height="25.12"/>
+      <rect class="cls-1" x="30.51" y="60.37" width="27.1" height="25.12"/>
+      <rect class="cls-1" x=".25" y="60.37" width="27.1" height="25.12"/>
+    </g>
+  </g>
+</svg>
